@@ -31,12 +31,12 @@ pip install imutils
 ```
 
 ## Step 2
-### Download this file and Keep This File in same directory as that of Main.py
+### Download this file and keep This File in same directory as that of Main.py
 ```
 https://drive.google.com/file/d/1M_-DFhUi6LAnuJEhoL095EfRv1N1GlM5/view?usp=sharing
 ```
 
 ## Step 3
 ```
-python main.py
+python3 main.py --shape-predictor shape_predictor_68_face_landmarks.dat 
 ```
