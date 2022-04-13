@@ -28,7 +28,6 @@ pip install opencv-python
 pip install numpy
 pip install dlib
 pip install imutils
-
 ```
 
 ## Step 2
