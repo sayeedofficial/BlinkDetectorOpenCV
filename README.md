@@ -31,7 +31,7 @@ pip install imutils
 ```
 
 ## Step 2
-### Download this file and keep this gile in same directory as that of Main.py
+### Download this file and keep this file in same directory as that of Main.py
 ```
 https://drive.google.com/file/d/1M_-DFhUi6LAnuJEhoL095EfRv1N1GlM5/view?usp=sharing
 ```
